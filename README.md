@@ -41,13 +41,6 @@ A comparação direta com a renda per capita mostrou que a mortalidade infantil 
 **Objetivo do Projeto:**
 
 O objetivo deste projeto é investigar a relação entre fatores socioeconômicos, com foco na renda média domiciliar, e as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A pesquisa busca compreender como a variação na renda pode influenciar a mortalidade infantil em diferentes regiões do país, especialmente considerando o impacto da pandemia de COVID-19 sobre as desigualdades socioeconômicas e de saúde. A análise visa fornecer insights que possam apoiar a formulação de políticas públicas mais eficazes para reduzir a mortalidade infantil, especialmente nas áreas de menor renda.
-
-**Envio para o CONBRASP:**
-
-Este estudo foi enviado para o CONBRASP (Congresso Brasileiro de Saúde Pública) para ser apresentado, com o intuito de compartilhar os resultados e discutir as implicações dessas descobertas para a saúde pública no Brasil. O objetivo é contribuir com a discussão sobre desigualdades socioeconômicas e suas implicações nas taxas de mortalidade infantil, além de propor recomendações para políticas que busquem mitigar esses impactos.
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Codigo do Projeto com as explicações de cada passo a passo**
