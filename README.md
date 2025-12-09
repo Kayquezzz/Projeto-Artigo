@@ -7,18 +7,18 @@ pandas: Manipulação e limpeza dos dados.
 matplotlib & seaborn: Visualização de gráficos (barras, linhas, boxplots e heatmaps).
 numpy: Operações matemáticas e normalização de dados.
 
- ***Resumo***
+# ***Resumo***
 
 Este projeto investiga como fatores socioeconômicos — especialmente a renda média domiciliar — se relacionam com as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A análise parte da hipótese de que regiões com menor renda tendem a registrar maior mortalidade devido à maior vulnerabilidade social.
 Os resultados indicam uma correlação negativa, ou seja, locais com renda mais alta geralmente apresentam menores índices de mortalidade infantil.
 
- ***Introdução***
+# ***Introdução***
 
 O Brasil é marcado por fortes desigualdades sociais que afetam diretamente condições essenciais como moradia, saneamento e acesso à saúde. Áreas com maior renda tendem a possuir melhores indicadores de saúde e menores taxas de mortalidade infantil.
 Entre 2019 e 2024, fatores como a pandemia de COVID-19 agravaram essas disparidades, impactando principalmente regiões já vulneráveis.
 Este estudo utiliza dados oficiais de renda e mortalidade para compreender como essas variáveis se relacionaram ao longo do período analisado e como isso pode orientar políticas públicas.
 
-***Metodologia***
+ # ***Metodologia***
 Bases de dados utilizadas
 
 Mortalidade infantil (2019–2024): registros anuais por estado.
