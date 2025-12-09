@@ -2,6 +2,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Projeto Artigo Taxa de Mortalidade Infantil no Brasil**
 
+***Tecnologias e Bibliotecas***
+pandas: Manipulação e limpeza dos dados.
+matplotlib & seaborn: Visualização de gráficos (barras, linhas, boxplots e heatmaps).
+numpy: Operações matemáticas e normalização de dados.
+
  ***Resumo***
 
 Este projeto investiga como fatores socioeconômicos — especialmente a renda média domiciliar — se relacionam com as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A análise parte da hipótese de que regiões com menor renda tendem a registrar maior mortalidade devido à maior vulnerabilidade social.
@@ -44,11 +49,21 @@ O objetivo deste projeto é investigar a relação entre fatores socioeconômico
 
 **Análise e Resultados**
 
+*Taxa de Mortalidade Infantil em cada estado no brasil*
 
+Estados como Paraná, Maranhão, Ceará e Amazonas registram os maiores números absolutos de mortes infantis.
+Estados com menor número de mortes incluem Acre, Amapá, Rondônia e Pará.
 
+<img width="1589" height="790" alt="download" src="https://github.com/user-attachments/assets/47b37daa-c33a-4f32-9e07-14f45ff041e9" />
 
+*Taxa de renda familiar em cada estado no brasil*
 
+Estados como Rio de Janeiro, São Paulo e Distrito Federal possuem as maiores rendas médias.
+Já Maranhão, Alagoas e Ceará estão entre as menores rendas.
 
+<img width="1389" height="990" alt="download (1)" src="https://github.com/user-attachments/assets/ad81f220-2e94-476b-bf93-a6e3ba9be06e" />
+
+**Correlação**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
