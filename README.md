@@ -49,14 +49,14 @@ O objetivo deste projeto é investigar a relação entre fatores socioeconômico
 
 **Análise e Resultados**
 
-*Taxa de Mortalidade Infantil em cada estado no brasil*
+**Taxa de Mortalidade Infantil em cada estado no brasil**
 
 Estados como Paraná, Maranhão, Ceará e Amazonas registram os maiores números absolutos de mortes infantis.
 Estados com menor número de mortes incluem Acre, Amapá, Rondônia e Pará.
 
 <img width="1589" height="790" alt="download" src="https://github.com/user-attachments/assets/47b37daa-c33a-4f32-9e07-14f45ff041e9" />
 
-*Taxa de renda familiar em cada estado no brasil*
+**Taxa de renda familiar em cada estado no brasil**
 
 Estados como Rio de Janeiro, São Paulo e Distrito Federal possuem as maiores rendas médias.
 Já Maranhão, Alagoas e Ceará estão entre as menores rendas.
