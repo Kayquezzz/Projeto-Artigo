@@ -14,9 +14,7 @@ Os resultados indicam uma correlação negativa, ou seja, locais com renda mais 
 
 # ***Introdução***
 
-O Brasil é marcado por fortes desigualdades sociais que afetam diretamente condições essenciais como moradia, saneamento e acesso à saúde. Áreas com maior renda tendem a possuir melhores indicadores de saúde e menores taxas de mortalidade infantil.
-Entre 2019 e 2024, fatores como a pandemia de COVID-19 agravaram essas disparidades, impactando principalmente regiões já vulneráveis.
-Este estudo utiliza dados oficiais de renda e mortalidade para compreender como essas variáveis se relacionaram ao longo do período analisado e como isso pode orientar políticas públicas.
+O Brasil apresenta desigualdades sociais que afetam diretamente o acesso a saúde, saneamento e condições de vida. Esses fatores influenciam indicadores como a mortalidade infantil, que tende a ser maior em regiões de menor renda. Este estudo analisa dados de renda média e mortes infantis para compreender como essas variáveis se relacionam e o que revelam sobre a desigualdade no país.
 
  # ***Metodologia***
 Bases de dados utilizadas
