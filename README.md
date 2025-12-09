@@ -9,11 +9,11 @@
 
 ***Base de Dados Utilizada***
 
-1. Os dados de mortalidade foram extraídos do site do IBGE, através da seção “Tábuas Completas de Mortalidade”.
+*1.* Os dados de mortalidade foram extraídos do site do IBGE, através da seção “Tábuas Completas de Mortalidade”.
 
-2. Informações adicionais de saúde e estatísticas vêm do portal DATASUS — uma base oficial coordenada pelo sistema de saúde pública.
+*2.* Informações adicionais de saúde e estatísticas vêm do portal DATASUS — uma base oficial coordenada pelo sistema de saúde pública.
 
-3. Os dados populacionais e indicadores sociais usados para renda e contexto demográfico foram obtidos a partir do Censo 2022, também do IBGE.
+*3.* Os dados populacionais e indicadores sociais usados para renda e contexto demográfico foram obtidos a partir do Censo 2022, também do IBGE.
 
 
 # 2. ***Resumo***
