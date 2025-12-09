@@ -69,13 +69,9 @@ O objetivo deste projeto é investigar a relação entre fatores socioeconômico
 
 ![Correlacao](https://github.com/user-attachments/assets/170683a9-377d-47f0-ae57-c04594749eeb)
 
-**Bolinhas vermelhas: Taxa de Mortalidade**
+**Bolinhas vermelhas: Taxa de Mortalidade Infantil**
 
 **Bolinhas verdes: Taxa de Renda Mensal**
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Como Executar**
-
-
