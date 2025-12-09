@@ -47,27 +47,29 @@ O objetivo deste projeto é investigar a relação entre fatores socioeconômico
 
 # 8. ***Análise e Resultados***
 
-**Taxa de Mortalidade Infantil em cada estado no brasil**
+# **Taxa de Mortalidade Infantil em cada estado no brasil**
 
 * Estados como Paraná, Maranhão, Ceará e Amazonas registram os maiores números absolutos de mortes infantis.
 * Estados com menor número de mortes incluem Acre, Amapá, Rondônia e Pará.
 
 <img width="1589" height="790" alt="download" src="https://github.com/user-attachments/assets/47b37daa-c33a-4f32-9e07-14f45ff041e9" />
 
-**Taxa de renda familiar em cada estado no brasil**
+# **Taxa de renda familiar em cada estado no brasil**
 
 * Estados como Rio de Janeiro, São Paulo e Distrito Federal possuem as maiores rendas médias.
 * Já Maranhão, Alagoas e Ceará estão entre as menores rendas.
 
 <img width="1389" height="990" alt="download (1)" src="https://github.com/user-attachments/assets/ad81f220-2e94-476b-bf93-a6e3ba9be06e" />
 
-**Correlação entre Renda e Mortalidade Infantil**
-
-![Correlacao](https://github.com/user-attachments/assets/170683a9-377d-47f0-ae57-c04594749eeb)
+# **Correlação entre Renda e Mortalidade Infantil**
 
 * A correlação encontrada é de –0,41, indicando uma correlação moderadamente negativa.
 * Isso significa que, em geral, estados com renda maior tendem a ter menos mortes infantis, mas a relação não é forte.
 * O gráfico também destaca que a renda não é o único fator determinante — vários estados com renda semelhante têm níveis bem diferentes de mortalidade.
+
+![Correlacao](https://github.com/user-attachments/assets/170683a9-377d-47f0-ae57-c04594749eeb)
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
