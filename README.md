@@ -7,6 +7,15 @@ pandas: Manipulação e limpeza dos dados.
 matplotlib & seaborn: Visualização de gráficos (barras, linhas, boxplots e heatmaps).
 numpy: Operações matemáticas e normalização de dados.
 
+***Base de Dados Utilizada***
+
+1. Os dados de mortalidade foram extraídos do site do IBGE, através da seção “Tábuas Completas de Mortalidade”.
+
+2. Informações adicionais de saúde e estatísticas vêm do portal DATASUS — uma base oficial coordenada pelo sistema de saúde pública.
+
+3. Os dados populacionais e indicadores sociais usados para renda e contexto demográfico foram obtidos a partir do Censo 2022, também do IBGE.
+
+
 # 2. ***Resumo***
 
 Este projeto investiga como fatores socioeconômicos — especialmente a renda média domiciliar — se relacionam com as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A análise parte da hipótese de que regiões com menor renda tendem a registrar maior mortalidade devido à maior vulnerabilidade social.
