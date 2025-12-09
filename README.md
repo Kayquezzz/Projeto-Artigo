@@ -3,9 +3,9 @@
 **Projeto Artigo Taxa de Mortalidade Infantil no Brasil**
 
 # 1. ***Tecnologias e Bibliotecas***
-pandas: Manipulação e limpeza dos dados.
-matplotlib & seaborn: Visualização de gráficos (barras, linhas, boxplots e heatmaps).
-numpy: Operações matemáticas e normalização de dados.
+* pandas: Manipulação e limpeza dos dados.
+* matplotlib & seaborn: Visualização de gráficos (barras, linhas, boxplots e heatmaps).
+* numpy: Operações matemáticas e normalização de dados.
 
 ***Base de Dados Utilizada***
 
