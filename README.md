@@ -43,25 +43,31 @@ A comparação direta com a renda per capita mostrou que a mortalidade infantil 
 
 # 7. ***Objetivo do Projeto:***
 
-O objetivo deste projeto é investigar a relação entre fatores socioeconômicos, com foco na renda média domiciliar, e as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A pesquisa busca compreender como a variação na renda pode influenciar a mortalidade infantil em diferentes regiões do país, especialmente considerando o impacto da pandemia de COVID-19 sobre as desigualdades socioeconômicas e de saúde. A análise visa fornecer insights que possam apoiar a formulação de políticas públicas mais eficazes para reduzir a mortalidade infantil, especialmente nas áreas de menor renda.
+O objetivo deste projeto é investigar a relação entre fatores socioeconômicos — com ênfase na renda média domiciliar — e as taxas de mortalidade infantil no Brasil. A pesquisa busca compreender como a variação na renda influencia os níveis de mortalidade infantil em diferentes regiões do país, destacando desigualdades estruturais que afetam o acesso a serviços básicos de saúde e qualidade de vida. A análise visa fornecer subsídios para a formulação de políticas públicas mais eficazes na redução da mortalidade infantil, especialmente em áreas de menor renda.
 
 # 8. ***Análise e Resultados***
 
 **Taxa de Mortalidade Infantil em cada estado no brasil**
 
-Estados como Paraná, Maranhão, Ceará e Amazonas registram os maiores números absolutos de mortes infantis.
-Estados com menor número de mortes incluem Acre, Amapá, Rondônia e Pará.
+* Estados como Paraná, Maranhão, Ceará e Amazonas registram os maiores números absolutos de mortes infantis.
+* Estados com menor número de mortes incluem Acre, Amapá, Rondônia e Pará.
 
 <img width="1589" height="790" alt="download" src="https://github.com/user-attachments/assets/47b37daa-c33a-4f32-9e07-14f45ff041e9" />
 
 **Taxa de renda familiar em cada estado no brasil**
 
-Estados como Rio de Janeiro, São Paulo e Distrito Federal possuem as maiores rendas médias.
-Já Maranhão, Alagoas e Ceará estão entre as menores rendas.
+* Estados como Rio de Janeiro, São Paulo e Distrito Federal possuem as maiores rendas médias.
+* Já Maranhão, Alagoas e Ceará estão entre as menores rendas.
 
 <img width="1389" height="990" alt="download (1)" src="https://github.com/user-attachments/assets/ad81f220-2e94-476b-bf93-a6e3ba9be06e" />
 
-**Correlação**
+**Correlação entre Renda e Mortalidade Infantil**
+
+![Correlacao](https://github.com/user-attachments/assets/170683a9-377d-47f0-ae57-c04594749eeb)
+
+* A correlação encontrada é de –0,41, indicando uma correlação moderadamente negativa.
+* Isso significa que, em geral, estados com renda maior tendem a ter menos mortes infantis, mas a relação não é forte.
+* O gráfico também destaca que a renda não é o único fator determinante — vários estados com renda semelhante têm níveis bem diferentes de mortalidade.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
