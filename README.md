@@ -30,24 +30,24 @@ Cálculo da correlação de Pearson para medir a relação entre renda e mortali
 Criação de gráficos de dispersão e comparações visuais entre os estados.
 Observação: a análise mostra relações, mas não determina causa e efeito.
 
-***Resultados***
+# ***Resultados***
 
 A união dos dados permitiu gerar um painel consistente de renda média e mortalidade infantil por estado. A análise mostrou que:
 Há uma tendência geral de relação negativa: quanto maior a renda, menor a mortalidade infantil.
 A intensidade dessa relação variou entre os anos.
 Durante a pandemia (2020–2021), houve aumento significativo nas taxas de mortalidade, principalmente nas regiões de menor renda.
 
-***Gráficos e observações***
+# ***Gráficos e observações***
 
 Estados como Paraná, Maranhão e Ceará apresentaram maiores números de mortes infantis, enquanto Acre, Amapá e Rondônia registraram os menores valores.
 
 A comparação direta com a renda per capita mostrou que a mortalidade infantil não depende apenas da renda — fatores como acesso a serviços de saúde, saneamento e infraestrutura também influenciam fortemente.
 
-**Objetivo do Projeto:**
+# ***Objetivo do Projeto:***
 
 O objetivo deste projeto é investigar a relação entre fatores socioeconômicos, com foco na renda média domiciliar, e as taxas de mortalidade infantil no Brasil entre 2019 e 2024. A pesquisa busca compreender como a variação na renda pode influenciar a mortalidade infantil em diferentes regiões do país, especialmente considerando o impacto da pandemia de COVID-19 sobre as desigualdades socioeconômicas e de saúde. A análise visa fornecer insights que possam apoiar a formulação de políticas públicas mais eficazes para reduzir a mortalidade infantil, especialmente nas áreas de menor renda.
 
-**Análise e Resultados**
+# ***Análise e Resultados***
 
 **Taxa de Mortalidade Infantil em cada estado no brasil**
 
